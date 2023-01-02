@@ -1,9 +1,6 @@
-# Created by .ignore support plugin (hsz.mobi)
-.idea
-.gradle
+/.idea
+/.gradle
+*.class
 .allure
-build
-video
-out
-allure-results
+*.log
 .DS_Store
